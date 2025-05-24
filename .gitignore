@@ -1,3 +1,10 @@
 # env
 env/
 .env
+.venv/
+
+# macos
+.DS_Store
+
+# temp
+gemini_db/
